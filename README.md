@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devcrypts...  
+- 👀 I’m interested in lots of things. I will be mention here soon.
+- 🌱 I’m currently learning/working container technologies and ReactJS. (as a Backend Dev)
+- 📫 You can contact me -> huseyinkadioglu@gmail.com
